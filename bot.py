@@ -108,7 +108,7 @@ async def start(bot, message):
         parse_mode="html"
     )
     await message.reply_text(
-        text="**OLÁ {} !**\n\n<b>SEJA BEM VINDO</b>\n\n<b>Se você precisar de alguma ajuda mande</b>/help".format(message.chat.first_name)
+        text="**Halo {} !**\n\n•Silahkan Kirim Foto Atau Video Disini\n•Kalian Bisa Request Mau di post atau tidaknya\n•Kamu Juga Bisa kirim Pap untuk di rate(KHUSUS CEWE)\n\n<b>Jika Mengirim K*ONTOL DISINI AUTO BANNED DI SEMUA CHANNEL</b>".format(message.chat.first_name)
     )
 
 @bot.on_message(filters.command('help') & (filters.group | filters.private))
