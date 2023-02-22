@@ -14,7 +14,7 @@
 
 #### You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/KoshikKumar17/Send-Bot/"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="210" height="34.45" alt="Deploy To Heroku"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/JokoAbdul/Send-Bot/"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="210" height="34.45" alt="Deploy To Heroku"/></a></p>
 
 #### You can also tap the Deploy To Railway button below to deploy straight to Railway!
   
